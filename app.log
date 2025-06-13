@@ -1,0 +1,283 @@
+2025-06-13 11:40:05 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-13 11:41:03 - INFO - Root endpoint was accessed.
+2025-06-13 11:51:04 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 11:51:04 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 11:52:38 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 11:52:38 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 11:52:58 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 11:52:58 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 11:54:43 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 11:54:43 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 11:55:36 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 11:55:36 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 11:55:42 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 11:55:42 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 11:58:02 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 11:58:02 - ERROR - Error uploading file: Error reading CSV file: read_csv() got an unexpected keyword argument 'errors'
+2025-06-13 12:01:02 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 12:01:02 - ERROR - Error uploading file: Error reading CSV file: read_csv() got an unexpected keyword argument 'errors'
+2025-06-13 12:03:24 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 12:03:24 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 12:06:00 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 12:06:00 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 12:10:15 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 12:10:15 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 12:10:45 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 12:10:45 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 12:12:09 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 12:12:09 - INFO - hello world
+2025-06-13 12:12:09 - ERROR - Error uploading file: Error reading CSV file: No columns to parse from file
+2025-06-13 12:13:09 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 12:13:09 - INFO - hello world
+2025-06-13 12:13:09 - ERROR - Error uploading file: Error reading CSV file: 'str' object has no attribute 'csv'
+2025-06-13 12:14:52 - INFO - File 'Finance_data.csv' uploaded successfully.
+2025-06-13 12:14:52 - INFO - hello world
+2025-06-13 12:14:52 - ERROR - Error uploading file: Error reading CSV file: 'str' object has no attribute 'csv'
+2025-06-13 12:15:54 - INFO - File 'Finance_data.pdf' uploaded successfully.
+2025-06-13 12:15:54 - ERROR - Error uploading file: Error reading PDF file: Cannot read an empty file
+2025-06-13 12:21:22 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:21:22 - INFO - Reading CSV file: D:\Senkusha\uploads\Finance_data.csv
+2025-06-13 12:56:53 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:56:53 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:56:55 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:56:55 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:56:58 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:56:58 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:00 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:00 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:02 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:02 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:04 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:04 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:06 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:06 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:09 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:09 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:11 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:11 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:13 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:13 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:15 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:15 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:17 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:17 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:19 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:19 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:21 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:21 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:23 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:23 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:25 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:25 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:28 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:28 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:30 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:30 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:32 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:32 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:34 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:34 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:36 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:36 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:38 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:38 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:40 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:40 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:42 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:42 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:45 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:45 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:47 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:47 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:49 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:49 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:51 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:51 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:53 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:53 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:56 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:56 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:57:58 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:57:58 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:00 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:00 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:02 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:02 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:05 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:05 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:07 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:07 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:09 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:09 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:11 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:11 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:13 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:13 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:16 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:16 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:18 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:18 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:20 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:20 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:22 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:22 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:25 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:25 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:27 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:27 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:29 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:29 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:31 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:31 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:34 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:34 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:36 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:36 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:58:57 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:58:57 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:00 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:00 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:02 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:02 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:04 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:04 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:07 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:07 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:10 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:10 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:12 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:12 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:14 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:14 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:17 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:17 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 12:59:19 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 12:59:19 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:00:36 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:00:36 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:00:52 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:00:52 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:06:04 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:06:04 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:06:06 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:06:06 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:06:08 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:06:08 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:06:11 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:06:11 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:06:13 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:06:13 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:06:15 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:06:15 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:06:18 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:06:18 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:06:20 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:06:20 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:10:28 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:10:28 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:10:28 - ERROR - Error reading CSV file: 'Index' object has no attribute 'to_dict'
+2025-06-13 13:10:28 - ERROR - Error uploading file: 400: Error reading CSV file: 'Index' object has no attribute 'to_dict'
+2025-06-13 13:10:58 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:10:58 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:11:27 - INFO - Root endpoint was accessed.
+2025-06-13 13:17:44 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:17:44 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:19:10 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:19:10 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:20:47 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:20:47 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:23:51 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:23:51 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:24:15 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:24:15 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:25:07 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:25:07 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:25:50 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:25:50 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:27:24 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:27:24 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:29:48 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:29:48 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:32:49 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:32:49 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:33:53 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:33:53 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:40:18 - INFO - Root endpoint was accessed.
+2025-06-13 13:40:37 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:40:37 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:42:18 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:42:18 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:42:43 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:42:43 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:44:35 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:44:35 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:44:48 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:44:48 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:47:12 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:47:12 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:48:26 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:48:26 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:49:07 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:49:07 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:50:11 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:50:11 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:51:28 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:51:28 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:52:49 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:52:49 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 13:54:12 - INFO - File 'Finance_data.pdf' uploaded successfully. Size: 152681 bytes
+2025-06-13 13:54:12 - INFO - Reading PDF file: D:\\Senkusha\\uploads\Finance_data.pdf
+2025-06-13 13:57:42 - INFO - File 'Finance_data.pdf' uploaded successfully. Size: 254002 bytes
+2025-06-13 13:57:42 - INFO - Reading PDF file: D:\\Senkusha\\uploads\Finance_data.pdf
+2025-06-13 13:58:32 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 13:58:32 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 14:00:37 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 14:00:37 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 14:00:45 - INFO - File 'Finance_data1.pdf' uploaded successfully. Size: 152681 bytes
+2025-06-13 14:00:45 - INFO - Reading PDF file: D:\\Senkusha\\uploads\Finance_data1.pdf
+2025-06-13 16:23:29 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:23:29 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:43:15 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:43:15 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:43:34 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:43:34 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:47:20 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:47:20 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:47:39 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:47:39 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:47:58 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:47:58 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:52:46 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:52:46 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:52:58 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:52:58 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:55:52 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:55:52 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:56:02 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 16:56:02 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 16:56:04 - INFO - Received query: descibe above dataset
+2025-06-13 16:56:04 - INFO - LLaMA response: {'id': 'chatcmpl-7cd1d92e-a3b1-4c61-bef9-2074666a4f38', 'object': 'chat.completion', 'created': 1749813965, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "There is no dataset described above. This conversation just started. If you'd like to share a dataset, I'd be happy to help you describe it. Please go ahead and share the details, and I'll do my best to assist you!"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.044946023, 'prompt_tokens': 14, 'prompt_time': 0.002266053, 'completion_tokens': 47, 'completion_time': 0.092844408, 'total_tokens': 61, 'total_time': 0.095110461}, 'usage_breakdown': None, 'system_fingerprint': 'fp_79da0e0073', 'x_groq': {'id': 'req_01jxmgmc69f13a016yqrsmpg8y'}}
+2025-06-13 17:00:45 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 17:00:45 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 17:00:56 - INFO - Sending conversation history: [{'role': 'assistant', 'content': "What's on your mind today?"}, {'role': 'user', 'content': 'Uploaded file: Finance_data.csv'}, {'role': 'assistant', 'content': "I've processed your CSV file. Here are the headers:\n\n```text\ngender\nage\nInvestment_Avenues\nMutual_Funds\nEquity_Market\nDebentures\nGovernment_Bonds\nFixed_Deposits\nPPF\nGold\nStock_Marktet\nFactor\nObjective\nPurpose\nDuration\nInvest_Monitor\nExpect\nAvenue\nWhat are your savings objectives?\nReason_Equity\nReason_Mutual\nReason_Bonds\nReason_FD\nSource\n```"}, {'role': 'user', 'content': 'desrcibe the dataset'}]
+2025-06-13 17:00:56 - INFO - LLaMA response: {'id': 'chatcmpl-632a8211-edea-4703-be91-d3e9b5edd166', 'object': 'chat.completion', 'created': 1749814256, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "**Dataset Description: Finance Data**\n\nThe provided dataset, `Finance_data.csv`, appears to contain information related to individuals' financial behavior, investment preferences, and goals. The dataset consists of 24 columns, which can be broadly categorized into the following sections:\n\n### Demographic Information\n\n* **gender**: The individual's gender\n* **age**: The individual's age\n\n### Investment Avenues and Preferences\n\n* **Investment_Avenues**: A list of investment avenues (not clear if this is a categorical or text variable)\n* **Mutual_Funds**, **Equity_Market**, **Debentures**, **Government_Bonds**, **Fixed_Deposits**, **PPF**, **Gold**, **Stock_Marktet**: These columns seem to represent various investment options, but their data types are unclear (binary, categorical, or numerical)\n\n### Financial Goals and Objectives\n\n* **Objective**: The individual's financial objective (e.g., saving for a specific goal)\n* **Purpose**: The purpose of investing (e.g., long-term growth, short-term gains)\n* **Duration**: The duration for which the individual plans to invest\n* **What are your savings objectives?**: A question related to the individual's savings objectives\n\n### Investment Monitoring and Expectations\n\n* **Invest_Monitor**: How the individual monitors their investments\n* **Expect**: The individual's expectations from their investments\n\n### Additional Information\n\n* **Factor**: A factor influencing the individual's investment decisions (not clear what this represents)\n* **Avenue**: The investment avenue chosen by the individual\n* **Reason_Equity**, **Reason_Mutual**, **Reason_Bonds**, **Reason_FD**: These columns seem to represent the reasons for choosing specific investment options\n* **Source**: The source of information for the individual's investment decisions\n\n**Missing Values and Data Types**\n\nThe dataset's data types and missing values are not immediately apparent. Further analysis would be required to determine the distribution of values, data types, and any potential issues with missing or inconsistent data.\n\n**Potential Analysis Directions**\n\nSome potential analysis directions for this dataset could include:\n\n1. **Investment preference analysis**: Examine the distribution of investment preferences across different demographics (e.g., age, gender).\n2. **Goal-based analysis**: Investigate the relationship between financial goals and investment choices.\n3. **Factor analysis**: Explore the factors influencing investment decisions and their impact on investment choices.\n\nPlease let me know if you'd like to explore any specific aspects of this dataset further!"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.04550095999999999, 'prompt_tokens': 139, 'prompt_time': 0.00544383, 'completion_tokens': 495, 'completion_time': 1.034868325, 'total_tokens': 634, 'total_time': 1.040312155}, 'usage_breakdown': None, 'system_fingerprint': 'fp_79da0e0073', 'x_groq': {'id': 'req_01jxmgx8kyeta802zy4r86016d'}}
+2025-06-13 17:02:47 - INFO - Sending conversation history: [{'role': 'assistant', 'content': "What's on your mind today?"}, {'role': 'user', 'content': 'hello'}]
+2025-06-13 17:02:47 - INFO - LLaMA response: {'id': 'chatcmpl-19bb8842-3b6f-49f7-b591-0b66b2fc2a2f', 'object': 'chat.completion', 'created': 1749814368, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.045377919, 'prompt_tokens': 22, 'prompt_time': 0.002456741, 'completion_tokens': 25, 'completion_time': 0.051592948, 'total_tokens': 47, 'total_time': 0.054049689}, 'usage_breakdown': None, 'system_fingerprint': 'fp_37da608fc1', 'x_groq': {'id': 'req_01jxmh0nwxett8xdmjsan68kmc'}}
+2025-06-13 17:03:39 - INFO - Sending conversation history: [{'role': 'assistant', 'content': "What's on your mind today?"}, {'role': 'user', 'content': 'hello'}]
+2025-06-13 17:03:39 - INFO - LLaMA response: {'id': 'chatcmpl-e41b1993-ce81-484c-903a-664f0c85e1d5', 'object': 'chat.completion', 'created': 1749814420, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.151030782, 'prompt_tokens': 22, 'prompt_time': 0.002931594, 'completion_tokens': 25, 'completion_time': 0.050067117, 'total_tokens': 47, 'total_time': 0.052998711}, 'usage_breakdown': None, 'system_fingerprint': 'fp_79da0e0073', 'x_groq': {'id': 'req_01jxmh28djf4ha23qztdhjdbh3'}}
+2025-06-13 17:05:29 - INFO - Sending conversation history: [{'role': 'assistant', 'content': "What's on your mind today?"}, {'role': 'user', 'content': 'hello'}]
+2025-06-13 17:05:29 - INFO - LLaMA response: {'id': 'chatcmpl-8533203e-918b-4778-a0d2-3fae9954c699', 'object': 'chat.completion', 'created': 1749814529, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.044901608999999995, 'prompt_tokens': 22, 'prompt_time': 0.002464841, 'completion_tokens': 25, 'completion_time': 0.049602416, 'total_tokens': 47, 'total_time': 0.052067257}, 'usage_breakdown': None, 'system_fingerprint': 'fp_79da0e0073', 'x_groq': {'id': 'req_01jxmh5kr5evpv1yst6pfs28mf'}}
+2025-06-13 17:06:26 - INFO - Sending conversation history: [{'role': 'assistant', 'content': "What's on your mind today?"}, {'role': 'user', 'content': 'hello'}]
+2025-06-13 17:06:26 - INFO - LLaMA response: {'id': 'chatcmpl-0ed755a0-8167-4bf6-8e11-37e8aad71e88', 'object': 'chat.completion', 'created': 1749814587, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.061060671, 'prompt_tokens': 22, 'prompt_time': 0.002560383, 'completion_tokens': 25, 'completion_time': 0.049623336, 'total_tokens': 47, 'total_time': 0.052183719}, 'usage_breakdown': None, 'system_fingerprint': 'fp_37da608fc1', 'x_groq': {'id': 'req_01jxmh7bnqf5wrfw3vpfy0b5qr'}}
+2025-06-13 17:07:00 - INFO - Sending conversation history: [{'role': 'assistant', 'content': "What's on your mind today?"}, {'role': 'user', 'content': 'hello'}]
+2025-06-13 17:07:00 - INFO - LLaMA response: {'id': 'chatcmpl-50647557-1f5f-40bb-82d1-477dbd483b76', 'object': 'chat.completion', 'created': 1749814620, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.045853195, 'prompt_tokens': 22, 'prompt_time': 0.00249206, 'completion_tokens': 24, 'completion_time': 0.053470188, 'total_tokens': 46, 'total_time': 0.055962248}, 'usage_breakdown': None, 'system_fingerprint': 'fp_79da0e0073', 'x_groq': {'id': 'req_01jxmh8cm8f628cf17rpw3ca0j'}}
+2025-06-13 17:07:06 - INFO - File 'Finance_data.csv' uploaded successfully. Size: 8555 bytes
+2025-06-13 17:07:06 - INFO - Reading CSV file: D:\\Senkusha\\uploads\Finance_data.csv
+2025-06-13 17:07:09 - INFO - Sending conversation history: [{'role': 'assistant', 'content': "What's on your mind today?"}, {'role': 'user', 'content': 'hello'}, {'role': 'assistant', 'content': "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, {'role': 'user', 'content': 'Uploaded file: Finance_data.csv'}, {'role': 'assistant', 'content': "I've processed your CSV file. Here are the headers:\n\n```text\ngender\nage\nInvestment_Avenues\nMutual_Funds\nEquity_Market\nDebentures\nGovernment_Bonds\nFixed_Deposits\nPPF\nGold\nStock_Marktet\nFactor\nObjective\nPurpose\nDuration\nInvest_Monitor\nExpect\nAvenue\nWhat are your savings objectives?\nReason_Equity\nReason_Mutual\nReason_Bonds\nReason_FD\nSource\n```"}, {'role': 'user', 'content': 'hello'}]
+2025-06-13 17:07:09 - INFO - LLaMA response: {'id': 'chatcmpl-6b5165b6-0566-4bc7-89d9-9c2611939bd3', 'object': 'chat.completion', 'created': 1749814629, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "Hello again! I'm glad you're back. How can I assist you with the Finance_data.csv file now? Do you want to:\n\n1. Explore the data (e.g., view summary statistics, distribution of variables)?\n2. Visualize the data (e.g., plots, charts)?\n3. Perform analysis (e.g., correlations, regression)?\n4. Something else?\n\nLet me know!"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.046643955, 'prompt_tokens': 169, 'prompt_time': 0.006564455, 'completion_tokens': 79, 'completion_time': 0.158525014, 'total_tokens': 248, 'total_time': 0.165089469}, 'usage_breakdown': None, 'system_fingerprint': 'fp_79da0e0073', 'x_groq': {'id': 'req_01jxmh8n2jewcbnwbs01phxrcq'}}
+2025-06-13 17:07:23 - INFO - Sending conversation history: [{'role': 'assistant', 'content': "What's on your mind today?"}, {'role': 'user', 'content': 'hello'}, {'role': 'assistant', 'content': "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, {'role': 'user', 'content': 'Uploaded file: Finance_data.csv'}, {'role': 'assistant', 'content': "I've processed your CSV file. Here are the headers:\n\n```text\ngender\nage\nInvestment_Avenues\nMutual_Funds\nEquity_Market\nDebentures\nGovernment_Bonds\nFixed_Deposits\nPPF\nGold\nStock_Marktet\nFactor\nObjective\nPurpose\nDuration\nInvest_Monitor\nExpect\nAvenue\nWhat are your savings objectives?\nReason_Equity\nReason_Mutual\nReason_Bonds\nReason_FD\nSource\n```"}, {'role': 'user', 'content': 'hello'}, {'role': 'assistant', 'content': "Hello again! I'm glad you're back. How can I assist you with the Finance_data.csv file now? Do you want to:\n\n1. Explore the data (e.g., view summary statistics, distribution of variables)?\n2. Visualize the data (e.g., plots, charts)?\n3. Perform analysis (e.g., correlations, regression)?\n4. Something else?\n\nLet me know!"}, {'role': 'user', 'content': '2'}]
+2025-06-13 17:07:23 - INFO - LLaMA response: {'id': 'chatcmpl-89915469-3577-4301-b369-553422c17b58', 'object': 'chat.completion', 'created': 1749814643, 'model': 'meta-llama/llama-4-scout-17b-16e-instruct', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "To visualize the data, I can suggest some plots. Since you have a mix of categorical and numerical variables, here are a few ideas:\n\n1. **Bar charts**: Distribution of categorical variables like `Investment_Avenues`, `Objective`, `Purpose`, and `Avenue`.\n2. **Histograms**: Distribution of numerical variables like `age`, `Duration`.\n3. **Heatmap**: Correlation between numerical variables.\n\nWhich type of plot would you like to see first?\n\nOr, if you have a specific question or variable in mind, feel free to let me know! \n\n**Example code (Python with Pandas and Matplotlib)**\n```python\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n# Load the data\ndf = pd.read_csv('Finance_data.csv')\n\n# Bar chart: Distribution of Investment_Avenues\nplt.figure(figsize=(8,6))\ndf['Investment_Avenues'].value_counts().plot(kind='bar')\nplt.title('Distribution of Investment Avenues')\nplt.show()\n```\nLet me know if you'd like me to generate a specific plot!"}, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'queue_time': 0.044603817, 'prompt_tokens': 258, 'prompt_time': 0.008933968, 'completion_tokens': 215, 'completion_time': 0.463030074, 'total_tokens': 473, 'total_time': 0.471964042}, 'usage_breakdown': None, 'system_fingerprint': 'fp_79da0e0073', 'x_groq': {'id': 'req_01jxmh92gyf65rfdarc8d4mtj1'}}

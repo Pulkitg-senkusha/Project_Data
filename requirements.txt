@@ -1,0 +1,10 @@
+pandas
+PyPDF2
+numpy
+requests
+FastAPI
+Uvicorn
+dotenv
+pydantic
+python-multipart
+streamlit
