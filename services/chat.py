@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 from logger import logger
 from Config.setting import config
 
-GROQ_API_KEY = config.get("GROQ_API_KEY")
-GROQ_API_URL = config.get("GROQ_API_URL")
-MODEL_NAME = config.get("MODEL")
+GROQ_API_KEY = config.GROQ_API_KEY
+GROQ_API_URL = config.GROQ_API_URL
+MODEL_NAME = config.MODEL
 
 def get_llama_response(history: list[dict]) -> str:
     headers = {
