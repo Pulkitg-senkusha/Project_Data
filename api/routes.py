@@ -3,6 +3,7 @@ from logger import logger
 from pydantic import BaseModel
 from services.read import read_pdf, read_csv
 from services.chat import get_llama_response
+from services.chat_phi import get_phi_response
 import os
 import shutil
 
@@ -41,14 +42,15 @@ class QueryInput(BaseModel):
     history: list[dict[str, str]] 
       
 
+class ChatRequest(BaseModel):
+    user_input: str
+    history: list[dict[str, str]]
+
 @router.post("/chat")
-async def chat_with_llama(input_data: QueryInput):
+async def chat(request: ChatRequest):
     try:
-        history = [{"role": msg["role"], "content": msg["content"]} for msg in input_data.history]
-
-        reply = get_llama_response(history)
-
-        return {"response": reply}
+        response, plot_path = get_llama_response(request.user_input, request.history)
+        return {"response": response, "plot_path": plot_path}
     except Exception as e:
         logger.error(f"Error in /chat route: {str(e)}")
-        raise HTTPException(status_code=500, detail="Internal Server Error")
+        raise HTTPException(status_code=500, detail=f"Error in /chat route: {str(e)}")

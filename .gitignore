@@ -1,2 +1,5 @@
 .env
 .venv
+uploads
+plots
+app.log
