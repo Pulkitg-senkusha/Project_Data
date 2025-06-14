@@ -28,14 +28,10 @@ class Config:
             API_URL=os.getenv("API_URL"),
             GROQ_API_KEY=os.getenv("GROQ_API_KEY"),
             GROQ_API_URL=os.getenv("GROQ_API_URL"), 
-            MODEL=os.getenv("MODEL")
+            MODEL=os.getenv("MODEL"),
             )
         
         logger.info("Configuration loaded from environment variables")
-
-        if not config.api_key :
-            logger.error("Missing critical config values: API_KEY ")
-            raise ValueError("Missing critical environment variables: API_KEY ")
 
         return config
 
