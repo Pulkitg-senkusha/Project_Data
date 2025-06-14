@@ -16,7 +16,8 @@ class Config:
     GROQ_API_KEY: int 
     GROQ_API_URL: str 
     MODEL: str 
-        
+    phi_api_url: str 
+    phi_model: str
 
     @classmethod
     def from_env(cls) -> 'Config':
@@ -29,6 +30,8 @@ class Config:
             GROQ_API_KEY=os.getenv("GROQ_API_KEY"),
             GROQ_API_URL=os.getenv("GROQ_API_URL"), 
             MODEL=os.getenv("MODEL"),
+            phi_api_url=os.getenv("phi_api_url") , 
+            phi_model=os.getenv("llama_model")
             )
         
         logger.info("Configuration loaded from environment variables")
